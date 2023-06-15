@@ -108,6 +108,18 @@ button  {
     display: flex;
 }
 
+.frog.green {
+    background-image: url('images/frog-green.svg');
+}
+
+.frog.red {
+    background-image: url('images/frog-red.svg');
+}
+
+.frog.yellow {
+    background-image: url('images/frog-yellow.svg');
+}
+
 #background {
     position: absolute;
     left: 0;
@@ -143,16 +155,4 @@ button  {
 
 .lily.yellow {
     background-image: url('images/lilypad-yellow.svg');
-}
-
-.frog.green {
-    background-image: url('images/frog-green.svg');
-}
-
-.frog.red {
-    background-image: url('images/frog-red.svg');
-}
-
-.frog.yellow {
-    background-image: url('images/frog-yellow.svg');
 }
