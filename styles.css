@@ -42,6 +42,7 @@ p {
     font-size: 16px;
     line-height: 1.5;
     color: rgb(119, 119, 119);
+    overflow: hidden;
 }
 
 .line-numbers {
@@ -55,6 +56,19 @@ p {
     height: 100%;
     text-align: right;
 }
+
+pre {
+    margin: 0;
+}
+
+textarea {
+    height: 44px;
+    border: none;
+    outline: none;
+    resize: none;
+    overflow: auto;
+}
+
 #pond {
     background-color: rgb(31, 87, 104);
     width: 50vw;
