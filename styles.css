@@ -105,7 +105,7 @@ button  {
     width: 95%;
     height: 95%;
     padding: 2.5%;
-    
+    display: flex;
 }
 .frog-container {
     width: 20%;
