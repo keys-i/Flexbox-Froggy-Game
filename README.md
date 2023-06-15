@@ -1,4 +1,4 @@
-#Flexbox Froggy Game
+# Flexbox Froggy Game
 
 ![Flexbox Froggy Clone Project](project-image.jpg)
 
