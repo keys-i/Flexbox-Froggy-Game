@@ -79,10 +79,15 @@ button  {
     font-size: 16px;
     line-height: 1.5;
     color: rgba(255, 255, 255);
-    
+    padding: 5px 10px;
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+
 }
 
 #pond {
+    position: relative;
     background-color: rgb(31, 87, 104);
     width: 50vw;
     height: 50vw;
@@ -90,4 +95,22 @@ button  {
     overflow: hidden;
     min-width: 300px;
     min-height: 300px;
+}
+
+#forefont {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 95%;
+    height: 95%;
+    padding: 2.5%;
+}
+
+#background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 95%;
+    height: 95%;
+    padding: 2.5%;
 }
