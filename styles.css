@@ -113,6 +113,9 @@ button  {
     width: 95%;
     height: 95%;
     padding: 2.5%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .lily-container {
