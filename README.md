@@ -5,10 +5,10 @@
 > 🐸🎮 A fun and interactive Flexbox learning game inspired by Flexbox Froggy.
 
 [![License: MIT](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/licenses/GNU)
-[![GitHub stars](https://img.shields.io/github/stars/radhesh1/flexbox-froggy-clone.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/radhesh1/flexbox-froggy-clone.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/network)
-[![GitHub issues](https://img.shields.io/github/issues/radhesh1/flexbox-froggy-clone.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/radhesh1/flexbox-froggy-clone.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/radhesh1/Flexbox-Froggy-Game.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/radhesh1/Flexbox-Froggy-Game.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/network)
+[![GitHub issues](https://img.shields.io/github/issues/radhesh1/Flexbox-Froggy-Game.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/radhesh1/Flexbox-Froggy-Game.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/pulls)
 
 Welcome to the Flexbox Froggy Clone Project, a captivating game that makes learning Flexbox an enjoyable experience! This project is a clone of the popular game Flexbox Froggy, designed to help developers understand and master the power of CSS Flexbox.
 
