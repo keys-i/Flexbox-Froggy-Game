@@ -1,6 +1,6 @@
 # Flexbox Froggy Game
 
-![Flexbox Froggy Clone Project](project-image.jpg)
+![Flexbox Froggy Clone Project](image.png)
 
 > 🐸🎮 A fun and interactive Flexbox learning game inspired by Flexbox Froggy.
 
