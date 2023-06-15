@@ -52,6 +52,8 @@ p {
     height: 260px;
     color: rgba(213, 213, 213);
     padding: 10px 6px;
+    height: 100%;
+    text-align: right;
 }
 #pond {
     background-color: rgb(31, 87, 104);
