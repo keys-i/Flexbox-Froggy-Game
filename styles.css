@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Source+Code+Pro&display=swap');
 body {
     background-color: rgb(67, 160, 71);
     color: rgba(255, 255, 255, 0.8);
@@ -8,5 +9,56 @@ body {
 h1 {
     text-transform: uppercase;
     font-size: 28px;
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka', cursive;
+}
+
+
+p {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.help {
+    font-family: 'Source Code Pro', monospace;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-bottom: rgba(255, 255, 255, 0.8) solid 1px;
+}
+
+.app {
+    display: flex;
+}
+
+#instructions {
+    padding: 30px;
+    width: 50%;
+}
+
+.editor {
+    position: relative;
+    background-color: rgba(224, 224, 224);
+    height: 260px;
+    padding: 10px 10px 10px 40px;
+    border-radius: 4px;
+    font-family: 'Source Code Pro',monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgb(119, 119, 119);
+}
+
+.line-numbers {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(153, 153, 153);
+    height: 260px;
+    color: rgba(213, 213, 213);
+    padding: 10px 6px;
+}
+#pond {
+    background-color: rgb(31, 87, 104);
+    width: 50vw;
+    height: 50vw;
+    border-bottom-left-radius: 30px;
+    overflow: hidden;
+    min-width: 300px;
+    min-height: 300px;
 }
