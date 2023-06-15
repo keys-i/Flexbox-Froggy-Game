@@ -120,6 +120,10 @@ button  {
     background-repeat: no-repeat;
 }
 
+.frog.green {
+    background-image: url('images/frog-green.svg');
+}
+
 .frog.red {
     background-image: url('images/frog-red.svg');
 }
