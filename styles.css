@@ -114,3 +114,28 @@ button  {
     height: 95%;
     padding: 2.5%;
 }
+
+.lily-container {
+    width: 20%;
+    height: 20%;
+}
+
+.lily{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.lily.green {
+    background-image: url('images/lilypad-green.svg');
+}
+
+.lily.red {
+    background-image: url('images/lilypad-red.svg');
+}
+
+.lily.yellow {
+    background-image: url('images/lilypad-yellow.svg');
+}
