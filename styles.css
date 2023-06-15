@@ -107,9 +107,17 @@ button  {
     padding: 2.5%;
     display: flex;
 }
+.frog-container {
+    width: 20%;
+    height: 20%;
+}
 
-.frog.green {
-    background-image: url('images/frog-green.svg');
+.frog {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .frog.red {
@@ -132,12 +140,12 @@ button  {
     flex-wrap: wrap;
 }
 
-.lily-container, .frog-container {
+.lily-container{
     width: 20%;
     height: 20%;
 }
 
-.lily, .frog {
+.lily{
     width: 100%;
     height: 100%;
     background-position: center;
