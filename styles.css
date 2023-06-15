@@ -99,7 +99,7 @@ button  {
 
 #forefront {
     position: absolute;
-    z-index: 2;
+    z-index: 1;
     left: 0;
     top: 0;
     width: 95%;
@@ -110,6 +110,7 @@ button  {
 
 #background {
     position: absolute;
+    z-index: 0;
     left: 0;
     top: 0;
     width: 95%;
