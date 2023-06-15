@@ -29,7 +29,7 @@ Welcome to the Flexbox Froggy Clone Project, a captivating game that makes learn
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/yourusername/flexbox-froggy-clone.git
+git clone https://github.com/radhesh1/Flexbox-Froggy-Game.git
 ```
 
 2. Open the project in your favorite code editor.
