@@ -67,6 +67,19 @@ textarea {
     outline: none;
     resize: none;
     overflow: auto;
+    margin-left: 26px;
+    width: 90%;
+}
+
+button  {
+    background-color: rgb(209, 22, 6);
+    border: none;
+    border-radius: 4px;
+    font-family: 'PT Sans',sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255);
+    
 }
 
 #pond {
