@@ -4,7 +4,7 @@
 
 > 🐸🎮 A fun and interactive Flexbox learning game inspired by Flexbox Froggy.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/licenses/GNU)
 [![GitHub stars](https://img.shields.io/github/stars/radhesh1/flexbox-froggy-clone.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/radhesh1/flexbox-froggy-clone.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/network)
 [![GitHub issues](https://img.shields.io/github/issues/radhesh1/flexbox-froggy-clone.svg)](https://github.com/radhesh1/Flexbox-Froggy-Game/issues)
@@ -42,7 +42,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GPL v2 License](LICENSE).
 
 ---
 
