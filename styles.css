@@ -98,7 +98,7 @@ button  {
 }
 
 #forefront {
-    position: absolute;
+    position: relative;
     z-index: 1;
     left: 0;
     top: 0;
