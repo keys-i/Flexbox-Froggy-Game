@@ -46,6 +46,4 @@ This project is licensed under the [GNU GPL v2 License](LICENSE).
 
 ---
 
-Let's flex those CSS skills and guide those adorable frogs to victory! 🐸💪
-
-[Play the original Flexbox Froggy game](https://flexboxfroggy.com/) to get inspired!
+Let's flex those CSS skills and guide those adorable frogs to victory! 🐸💪s
